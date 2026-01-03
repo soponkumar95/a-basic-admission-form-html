@@ -5,5 +5,7 @@
     padding:10px;
     text-align:left;
     margin:auto;
-    background-image:url('/images/beauty.jpg');
+    /* background-image:url('/images/beauty.jpg'); */
+    background-color:bisque;
+    font-family:'Times New Roman', Times, serif;
 }
